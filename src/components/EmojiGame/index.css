@@ -1,0 +1,12 @@
+/* Write your code here. */
+.container {
+  width: 50vw;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+.box {
+  display: flex;
+  justify-content: center;
+}
